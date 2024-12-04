@@ -8,6 +8,10 @@ After finishing a round and when all cards lay on the able, we capture our half 
 An AI will the recognize the cards on the table and will pass them to the logic for counting the cards.
 In the end we should see the computed score of our cards.
 
+## Community
+
+Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before participating in the community.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
